@@ -4,7 +4,7 @@ Responsive, pixel-perfect landing page built from a Figma design. Developed with
 
 ## 🔗 Live Demo
 
-[View the site on GitHub Pages](https://github.com/b0gdan-goncharov/figmatoweb2)
+[View the site on GitHub Pages](https://b0gdan-goncharov.github.io/figmatoweb2/)
 
 ## 🧰 Technologies Used
 
